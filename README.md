@@ -42,8 +42,8 @@
 ###
 
 <div align="center">
-
-  ![GitHub Stats](https://github-readme-stats.vercel.apIkhsanov-Nail-95&theme=radical)
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ikhsanov-Nail-95&show_icons=true&theme=radical)
 
 </div>
 
