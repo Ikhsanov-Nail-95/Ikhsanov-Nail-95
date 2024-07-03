@@ -25,7 +25,7 @@
 
 ###
 
-<div style="display:table-cell; vertical-align:middle; text-align:center>
+<div style="position:absolute; width:100%; height:100%">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="88" alt="java logo" style="margin-right: 11px; vertical-align: middle;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="77" alt="spring logo" style="margin-right: 11px; vertical-align: middle;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="77" alt="kafka logo" style="margin-right: 11px; vertical-align: middle;" />
