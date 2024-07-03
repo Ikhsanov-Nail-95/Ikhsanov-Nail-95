@@ -25,7 +25,7 @@
 
 ###
 
-<div align="centr">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="88" alt="java logo" style="margin-right: 11px; vertical-align: middle;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="77" alt="spring logo" style="margin-right: 11px; vertical-align: middle;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="77" alt="kafka logo" style="margin-right: 11px; vertical-align: middle;" />
@@ -33,6 +33,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="77" alt="docker logo" style="margin-right: 26px; vertical-align: middle;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original-wordmark.svg" height="77" alt="hibernate logo" style="margin-right: 11px; vertical-align: middle;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="70" alt="postgresql logo" style="margin-right: 11px; vertical-align: middle;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" height="100" alt="cassandra logo" style="margin-right: 11px; vertical-align: middle;" />
 </div>
 
 ###
