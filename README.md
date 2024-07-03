@@ -37,5 +37,3 @@
 </div>
 
 ###
-
-[CorporationX](https://github.com/Ikhsanov-Nail-95/CorporationX)
